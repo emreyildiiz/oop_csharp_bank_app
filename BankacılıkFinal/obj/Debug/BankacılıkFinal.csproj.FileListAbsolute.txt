@@ -1,0 +1,11 @@
+C:\Users\emrem\source\repos\BankacılıkFinal\BankacılıkFinal\bin\Debug\BankacılıkFinal.exe.config
+C:\Users\emrem\source\repos\BankacılıkFinal\BankacılıkFinal\bin\Debug\BankacılıkFinal.exe
+C:\Users\emrem\source\repos\BankacılıkFinal\BankacılıkFinal\bin\Debug\BankacılıkFinal.pdb
+C:\Users\emrem\source\repos\BankacılıkFinal\BankacılıkFinal\obj\Debug\BankacılıkFinal.csprojAssemblyReference.cache
+C:\Users\emrem\source\repos\BankacılıkFinal\BankacılıkFinal\obj\Debug\BankacılıkFinal.LoginForm.resources
+C:\Users\emrem\source\repos\BankacılıkFinal\BankacılıkFinal\obj\Debug\BankacılıkFinal.Properties.Resources.resources
+C:\Users\emrem\source\repos\BankacılıkFinal\BankacılıkFinal\obj\Debug\BankacılıkFinal.csproj.GenerateResource.cache
+C:\Users\emrem\source\repos\BankacılıkFinal\BankacılıkFinal\obj\Debug\BankacılıkFinal.csproj.CoreCompileInputs.cache
+C:\Users\emrem\source\repos\BankacılıkFinal\BankacılıkFinal\obj\Debug\BankacılıkFinal.exe
+C:\Users\emrem\source\repos\BankacılıkFinal\BankacılıkFinal\obj\Debug\BankacılıkFinal.pdb
+C:\Users\emrem\source\repos\BankacılıkFinal\BankacılıkFinal\obj\Debug\BankacılıkFinal.HesapIslemleriForm.resources
